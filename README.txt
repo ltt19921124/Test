@@ -13,4 +13,4 @@ class Demo{
 	h
 	gg
 	hh
-	好了
+	好了，github是神器。
