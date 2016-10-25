@@ -13,3 +13,4 @@ class Demo{
 	h
 	gg
 	hh
+	好了
